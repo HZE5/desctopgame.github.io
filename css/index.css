@@ -1,0 +1,54 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+#navbarSupportedContent{
+    margin-left: 35pc;
+    display: flex;
+}
+#form{
+    position: absolute;
+    left: 350px;
+    top: 100px;
+    border: 1px solid rgb(255, 255, 255);
+    color: white;
+    width: 650px;
+    height: 550px;
+    border-radius: 20px;
+}
+.accordion{
+    margin-top: 650px;
+}
+#form .inp{
+    margin-top: 30px;
+    height: 50px;
+    margin-left: 50px;
+    flex-direction: row-reverse;
+    border: 1px solid white;
+    color: white;
+    /* border-bottom: 2px solid silver; */
+}
+#form #email{
+    width: 550px;
+}
+#form #uname{
+    width: 550px;
+}
+#form #pass{
+    width: 550px;
+}
+#form #age{
+    width: 550px;
+}
+#form #gender-1{
+    width: 550px;
+    margin-top: 30px;
+}
+#form #sub{
+    margin-left: 255px;
+    width: 110px;
+}
+/* #form .hide{
+    position: absolute;
+} */

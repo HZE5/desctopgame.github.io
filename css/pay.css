@@ -1,0 +1,28 @@
+body{
+    background-color: black;
+    display: block;
+}
+#color{
+    background-color: blue;
+    height: 250px;
+    text-align: center;
+    padding: 50px;
+}
+#container{
+    margin-left: 8pc;
+    display: flex;
+    margin-top: 50px;
+}
+.card-text{
+    text-align: center;
+}
+.card-body{
+    text-align: center;
+}
+.btn{
+    margin-top: 15rem;
+}
+h1{
+    text-align: center;
+    color: white;
+}
